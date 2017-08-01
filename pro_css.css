@@ -1,0 +1,18 @@
+#header{
+           background-image: url("images.jpg");
+           background-size: 30% ;
+          }
+#footer{
+            background-image: url("images.jpg");
+           background-size: 30% ;
+}
+      div{
+        overflow:hidden;
+        text-overflow: ellipsis;
+        wrap:text-wrap;
+      }  
+      p{
+        color: orange;
+        font-family: comic sans ms;
+
+      }   
